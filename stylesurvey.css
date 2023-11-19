@@ -1,0 +1,20 @@
+
+
+.fname {
+  color: rgb(0, 255, 0);
+
+}
+
+.lname {
+  color: rgb(0, 255, 0);
+}
+
+body {
+  background-image: url(image2.jpeg);
+  background-size: 25%;
+  margin-bottom: 1250px;
+}
+
+h1 {
+  color: rgb(0, 255, 0);
+}
